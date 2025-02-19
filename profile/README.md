@@ -9,6 +9,15 @@ We continue to push for an informed international community and encourage all DR
 
 ---
 
+## OUR INITIATIVES
+- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://dev-drep.vercel.app/cip148)
+   - `PROPOSED`
+   - `NOT` an extension of CIP-119
+- [The Cardano DRep Sensemaking App](https://dev-drep.vercel.app/)
+   - `Proof Of Concept`
+ 
+---
+
 ## GET IN TOUCH
 
 [Discord](https://discord.gg/VHzZCBxNDm) • [GitHub](https://github.com/DRep-Collective/) • [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5) • [LinkedIn](https://www.linkedin.com/company/the-drep-collective/) • [Facebook](https://www.facebook.com/profile.php?id=61572466194346) • [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR) • [DRep Forum](https://linktr.ee/drepforum) • [Youtube](https://www.youtube.com/@TheDRepCollective) • [Email Us](mailto:thedrepcollective@gmail.com)
@@ -34,15 +43,6 @@ We continue to push for an informed international community and encourage all DR
 ## POLICIES
 
 #### [Policies & Guidelines](https://github.com/DRep-Collective/Landing/blob/main/docs/organization/index.md)
-
----
-
-## OUR INITIATIVES
-- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://dev-drep.vercel.app/cip148)
-   - `PROPOSED`
-   - `NOT` an extension of CIP-119
-- [The Cardano DRep Sensemaking App](https://dev-drep.vercel.app/)
-   - `Proof Of Concept`
 
 ---
 
