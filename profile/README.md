@@ -9,6 +9,12 @@ We continue to push for an informed international community and encourage all DR
 
 ---
 
+## GET IN TOUCH
+
+[Discord](https://discord.gg/VHzZCBxNDm) • [GitHub](https://github.com/DRep-Collective/) • [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5) • [LinkedIn](https://www.linkedin.com/company/the-drep-collective/) • [Facebook](https://www.facebook.com/profile.php?id=61572466194346) • [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR) • [DRep Forum](https://linktr.ee/drepforum) • [Youtube](https://www.youtube.com/@TheDRepCollective) • [Email Us](mailto:thedrepcollective@gmail.com)
+
+---
+
 ## HAVE IDEAS? JOIN US!
 
 #### [Join a meeting](https://meet.jit.si/Drep-Collective)
@@ -16,12 +22,6 @@ We continue to push for an informed international community and encourage all DR
  
 #### [Be Part Of The Build Team](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
    - Select `New Discussion`, fill in the data, click `Start Discussion`. Someone will be in touch.
-
----
-
-## GET IN TOUCH
-
-[Website](https://dev-drep.vercel.app/) • [Discord](https://discord.gg/VHzZCBxNDm) • [GitHub](https://github.com/DRep-Collective/) • [Telegram](https://t.me/+Y1HJLBoLK-UyNDc5) • [LinkedIn](https://www.linkedin.com/company/the-drep-collective/) • [Facebook](https://www.facebook.com/profile.php?id=61572466194346) • [WhatsApp](https://chat.whatsapp.com/KZVsqc3GrLhIkkyMX6KKYR) • [DRep Forum](https://linktr.ee/drepforum) • [Youtube](https://www.youtube.com/@TheDRepCollective) • [Email Us](mailto:thedrepcollective@gmail.com)
 
 ---
 
@@ -38,10 +38,10 @@ We continue to push for an informed international community and encourage all DR
 ---
 
 ## OUR INITIATIVES
-- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://drep-eco.vercel.app/cip148)
+- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://dev-drep.vercel.app/cip148)
    - `PROPOSED`
    - `NOT` an extension of CIP-119
-- [DRep Ecosystem Map](https://drep-eco.vercel.app/)
+- [The Cardano DRep Sensemaking App](https://dev-drep.vercel.app/)
    - `Proof Of Concept`
 
 ---
@@ -53,13 +53,4 @@ We continue to push for an informed international community and encourage all DR
 
 #### [Workstream Updates](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_report)
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
