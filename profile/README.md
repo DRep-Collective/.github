@@ -26,7 +26,7 @@ We continue to push for an informed international community and encourage all DR
 
 ## HAVE IDEAS? JOIN US!
 
-#### [Join a meeting](https://meet.jit.si/Drep-Collective)
+#### [Join A Meeting](https://meet.jit.si/Drep-Collective)
    - Check [Discord](https://discord.gg/VHzZCBxNDm) Events for meetup times
  
 #### [Be Part Of The Build Team](https://github.com/orgs/DRep-Collective/discussions/categories/workstream_onboarding)
