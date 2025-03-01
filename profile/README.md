@@ -42,7 +42,7 @@ We continue to push for an informed international community and encourage all DR
 
 ## POLICIES
 
-#### [Policies & Guidelines](https://github.com/DRep-Collective/Landing/blob/main/docs/organization/index.md)
+#### [Policies, Guidelines and Business Plan](https://github.com/DRep-Collective/Landing/blob/main/docs/organization/index.md)
 
 ---
 
