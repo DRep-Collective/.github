@@ -10,7 +10,7 @@ We continue to push for an informed international community and encourage all DR
 ---
 
 ## OUR INITIATIVES
-- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://dev-drep.vercel.app/cip148)
+- [CIP-148: Ecosystem-Based DRep Metadata Extension](https://dev-drep.vercel.app/CIP-0148)
    - `PROPOSED`
    - `NOT` an extension of CIP-119
 - [The Cardano DRep Sensemaking App](https://dev-drep.vercel.app/)
